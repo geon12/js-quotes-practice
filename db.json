@@ -36,11 +36,6 @@
       "author": "Confucius"
     },
     {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
       "id": 9,
       "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
       "author": "James Baldwin"
@@ -54,6 +49,21 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Everybody has a plan until they get punched in the mouth.",
+      "author": "Mike Tyson",
+      "id": 12
+    },
+    {
+      "quote": "You miss 100% of the shots you don’t take – Wayne Gretzky",
+      "author": "Michael Scott",
+      "id": 13
+    },
+    {
+      "quote": "I find your lack of faith disturbing.",
+      "author": "Darth Vader",
+      "id": 14
     }
   ],
   "likes": [
@@ -66,6 +76,46 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1618771718283,
+      "id": 3
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1618771720523,
+      "id": 4
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1618771720944,
+      "id": 5
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1618771721379,
+      "id": 6
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618772030429,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618772131511,
+      "id": 8
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1618773647946,
+      "id": 9
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618773775863,
+      "id": 10
     }
   ]
 }
